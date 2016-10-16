@@ -1,4 +1,0 @@
-NUGET
-  remote: https://www.nuget.org/api/v2
-  specs:
-    FSharp.Data.SqlClient (1.8.1)
